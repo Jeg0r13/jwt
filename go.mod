@@ -1,4 +1,4 @@
-module test
+module github.com/Jeg0r13/jwt
 
 go 1.24
 
